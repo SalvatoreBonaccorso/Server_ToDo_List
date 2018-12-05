@@ -1,0 +1,20 @@
+{
+  "name": "server_todo_list9",
+  "version": "1.0.0",
+  "description": "a server of manage toDo list",
+  "main": "ToDo.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "server",
+    "toDo",
+    "list"
+  ],
+  "author": "Salvatore Bonaccorso <salvatore.bonaccorso89@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "todo_list9": "^1.0.0"
+  }
+}
