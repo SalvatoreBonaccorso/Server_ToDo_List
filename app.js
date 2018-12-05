@@ -10,6 +10,3 @@ app.use('/ToDo', toDo);
 
 app.listen(3001);
 module.exports = app;
-
-//var modify = require ("./routes/modify.js");
-//app.use("/modify", modify);
